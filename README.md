@@ -11,9 +11,13 @@ MICHAEL SUMAYOUW  ( UI/UX DESIGN ).
 
 FITUR
 Splash Screen
-![Screenshot_20210312-113207](https://user-images.githubusercontent.com/77044478/110892548-d75b1a80-8326-11eb-95f4-43e12fbec446.jpg)
+Halaman utama ketika pertama kali dibuka
+![Screenshot_20210312-113207](https://user-images.githubusercontent.com/77044478/110892759-3882ee00-8327-11eb-97d6-1c12a6925d52.jpg)
+
+
 
 Home page
 Menampilkan Data dengan menggunakan data dummy dari API
-![Screenshot_20210312-113228](https://user-images.githubusercontent.com/77044478/110892640-fd80ba80-8326-11eb-9b3f-280f21c11838.jpg)
+![Screenshot_20210312-113228](https://user-images.githubusercontent.com/77044478/110892765-3de03880-8327-11eb-9a0f-0a74b4e78b73.jpg)
+
 
