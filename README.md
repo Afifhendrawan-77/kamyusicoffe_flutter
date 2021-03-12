@@ -21,6 +21,7 @@ Halaman utama ketika pertama kali dibuka
 Home page.
 
 Menampilkan Data dengan menggunakan data dummy dari API
+
 ![Screenshot_20210312-113228](https://user-images.githubusercontent.com/77044478/110892765-3de03880-8327-11eb-9a0f-0a74b4e78b73.jpg).
 
 
