@@ -9,7 +9,7 @@ Sebuah aplikasi mobile dibuat dengan menggunakan flutter
 
 - MICHAEL SUMAYOUW  ( UI/UX DESIGN ).
 
-FITUR
+# FITUR
 Splash Screen.
 
 Halaman utama ketika pertama kali dibuka
