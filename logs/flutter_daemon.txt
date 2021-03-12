@@ -1,0 +1,27 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.20.1
+Flutter extension: 3.20.0 (not activated)
+
+App: Visual Studio Code
+Version: 1.54.2
+Platform: win
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Logging Categories:
+    FlutterDaemon
+
+Fri Mar 12 2021 [10:41:27 GMT+0700 (Western Indonesia Time)] Log file started
+[10:41:27] [FlutterDaemon] [Info] Spawning C:\flutter\bin\flutter.bat with args ["daemon"]
+[10:41:27] [FlutterDaemon] [Info] ..  in C:\flutter
+[10:41:27] [FlutterDaemon] [Info] ..  with {"toolEnv":{"FLUTTER_HOST":"VSCode","PUB_ENVIRONMENT":"vscode.dart-code"}}
+[10:41:27] [FlutterDaemon] [Info]     PID: 15824
+[10:41:27] [FlutterDaemon] [Info] ==> [{"id":"1","method":"emulator.getEmulators"}]
+[10:41:33] [FlutterDaemon] [Info] <== [{"event":"daemon.connected","params":{"version":"0.6.0","pid":9968}}]
+[10:41:33] [FlutterDaemon] [Info] ==> [{"id":"2","method":"device.enable"}]
+[10:41:33] [FlutterDaemon] [Info] <== [{"event":"daemon.logMessage","params":{"level":"status","message":"Starting device daemon..."}}]
+[10:41:33] [FlutterDaemon] [Info] <== [{"id":"2","result":[null,null,null]}]
+[10:41:34] [FlutterDaemon] [Info] <== [{"id":"1","result":[{"id":"Pixel_3a_API_30_x86","name":"Pixel_3a_API_30_x86","category":"mobile","platformType":"android"}]}]
+Fri Mar 12 2021 [10:41:38 GMT+0700 (Western Indonesia Time)] Log file ended

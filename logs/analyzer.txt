@@ -1,0 +1,76 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.20.1
+Flutter extension: 3.20.0 (not activated)
+
+App: Visual Studio Code
+Version: 1.54.2
+Platform: win
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Logging Categories:
+    Analyzer
+
+Fri Mar 12 2021 [10:41:27 GMT+0700 (Western Indonesia Time)] Log file started
+[10:41:27] [Analyzer] [Info] Spawning C:\flutter\bin\cache\dart-sdk\bin\dart.exe with args ["C:\\flutter\\bin\\cache\\dart-sdk\\bin\\snapshots\\analysis_server.dart.snapshot","--client-id=VS-Code","--client-version=3.20.1"]
+[10:41:27] [Analyzer] [Info] ..  with {"toolEnv":{"FLUTTER_HOST":"VSCode","PUB_ENVIRONMENT":"vscode.dart-code"}}
+[10:41:27] [Analyzer] [Info]     PID: 15824
+[10:41:27] [Analyzer] [Info] ==> {"id":"1","method":"server.setSubscriptions","params":{"subscriptions":["STATUS"]},"clientRequestTime":1615520487664}
+[10:41:27] [Analyzer] [Info] ==> {"id":"2","method":"analysis.setPriorityFiles","params":{"files":["C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\pubspec.yaml"]},"clientRequestTime":1615520487664}
+[10:41:27] [Analyzer] [Info] ==> {"id":"3","method":"analysis.setSubscriptions","params":{"subscriptions":{"FOLDING":["C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\pubspec.yaml"],"OCCURRENCES":["C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\pubspec.yaml"],"OUTLINE":["C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\pubspec.yaml"]}},"clientRequestTime":1615520487665}
+[10:41:27] [Analyzer] [Info] ==> {"id":"4","method":"analysis.updateContent","params":{"files":{"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\pubspec.yaml":{"content":"name: bwa_cozy\ndescription: A new Flutter project.\n\n# The following line prevents the package from being accidentally published to\n# pub.dev using `pub publish`. This is preferred for private packages.\npublish_to: 'none' # Remove this line if you wish to publish to pub.dev\n\n# The following defines the version and build number for your application.\n# A version number is three numbers separated by dots, like 1.2.43\n# followed by an optional build number separated by a +.\n# Both the version and the builder number may be overridden in flutter\n# build by specifying --build-name and --build-number, respectively.\n# In Android, build-name is used as versionName while build-number used as versionCode.\n# Read more about Android versioning at https://developer.android.com/studio/publish/versioning\n# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.\n# Read more about iOS versioning at\n# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html\nversion: 1.0.0+1\n\nenvironment:\n  sdk: '>=2.7.0 <3.0.0'\n\ndependencies:\n  flutter:\n    sdk: flutter\n  cupertino_icons: ^1.0.0\n  google_fonts: ^1.1.1\n  url_launcher: ^5.7.10\n  http: ^0.12.2\n  provider: ^4.3.2+3\n  flutter_launcher_icons: ^0.8.1\n\nflutter_icons:\n  android: 'launcher_icon'\n  ios: true\n  image_path: 'assets/logoaplikasi.png'\n\ndev_dependencies:\n  flutter_test:\n    sdk: flutter\n\n# For information on the generic Dart part of this file, see the\n# following page: https://dart.dev/tools/pub/pubspec\n# The following section is specific to Flutter.\nflutter:\n  # The following line ensures that the Material Icons font is\n  # included with your application, so that you can use the icons in\n  # the material Icons class.\n  uses-material-desig…
+[10:41:29] [Analyzer] [Info] <== {"event":"server.connected","params":{"version":"1.29.0","pid":9472}}
+[10:41:29] [Analyzer] [Info] ==> {"id":"5","method":"analysis.setSubscriptions","params":{"subscriptions":{"CLOSING_LABELS":["C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\pubspec.yaml"],"FOLDING":["C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\pubspec.yaml"],"OCCURRENCES":["C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\pubspec.yaml"],"OUTLINE":["C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\pubspec.yaml"]}},"clientRequestTime":1615520489353}
+[10:41:29] [Analyzer] [Info] ==> {"id":"6","method":"analysis.setAnalysisRoots","params":{"excluded":["C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\test\\test_projects\\dart_create_template","C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\test\\test_projects\\flutter_create_basic","C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\test\\test_projects\\flutter_create_sample"],"included":["C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )"]},"clientRequestTime":1615520489354}
+[10:41:29] [Analyzer] [Info] ==> {"id":"7","method":"analysis.updateContent","params":{"files":{"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\pubspec.yaml":{"edits":[{"offset":0,"length":0,"replacement":"","id":""}],"type":"change"}}},"clientRequestTime":1615520489356}
+[10:41:29] [Analyzer] [Info] ==> {"id":"8","method":"completion.setSubscriptions","params":{"subscriptions":["AVAILABLE_SUGGESTION_SETS"]},"clientRequestTime":1615520489358}
+[10:41:29] [Analyzer] [Info] ==> {"id":"9","method":"analysis.updateContent","params":{"files":{"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\pubspec.yaml":{"edits":[{"offset":0,"length":0,"replacement":"","id":""}],"type":"change"}}},"clientRequestTime":1615520489360}
+[10:41:29] [Analyzer] [Info] <== {"id":"1"}
+[10:41:29] [Analyzer] [Info] <== {"id":"2"}
+[10:41:29] [Analyzer] [Info] <== {"id":"3"}
+[10:41:29] [Analyzer] [Info] ==> {"id":"10","method":"flutter.setSubscriptions","params":{"subscriptions":{"OUTLINE":["C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\pubspec.yaml"]}},"clientRequestTime":1615520489704}
+[10:41:29] [Analyzer] [Info] <== {"id":"4","result":{}}
+[10:41:29] [Analyzer] [Info] <== {"id":"5"}
+[10:41:29] [Analyzer] [Info] ==> {"id":"11","method":"flutter.setSubscriptions","params":{"subscriptions":{"OUTLINE":["C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\pubspec.yaml"]}},"clientRequestTime":1615520489738}
+[10:41:31] [Analyzer] [Info] ==> {"id":"12","method":"analysis.setSubscriptions","params":{"subscriptions":{"CLOSING_LABELS":["C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\lib\\providers\\space_provider.dart","C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\pubspec.yaml"],"FOLDING":["C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\lib\\providers\\space_provider.dart","C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\pubspec.yaml"],"OCCURRENCES":["C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\lib\\providers\\space_provider.dart","C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\pubspec.yaml"],"OUTLINE":["C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\lib\\providers\\space_provider.dart","C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\pubspec.yaml"]}},"clientRequestTime":1615520491599}
+[10:41:31] [Analyzer] [Info] ==> {"id":"13","method":"analysis.updateContent","params":{"files":{"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\lib\\providers\\space_provider.dart":{"content":"import 'dart:convert';\n\nimport 'package:bwa_cozy/models/space.dart';\nimport 'package:flutter/material.dart';\nimport 'package:http/http.dart' as http;\n\nclass SpaceProvider extends ChangeNotifier {\n  getRecommendedSpaces() async {\n    var result =\n        await http.get(\"https://datakamyusi.000webhostapp.com/dataApiSementara2.json\");\n\n    print(result.statusCode);\n    print(result.body);\n\n    if (result.statusCode == 200) {\n      List data = jsonDecode(result.body);\n      List<Space> spaces = data.map((item) => Space.fromJson(item)).toList();\n      return spaces;\n    } else {\n      return <Space>[];\n    }\n  }\n}\n","type":"add"}}},"clientRequestTime":1615520491600}
+[10:41:31] [Analyzer] [Info] ==> {"id":"14","method":"edit.getFixes","params":{"file":"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\lib\\providers\\space_provider.dart","offset":0},"clientRequestTime":1615520491604}
+[10:41:31] [Analyzer] [Info] ==> {"id":"15","method":"edit.getAssists","params":{"file":"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\lib\\providers\\space_provider.dart","length":0,"offset":0},"clientRequestTime":1615520491605}
+[10:41:31] [Analyzer] [Info] ==> {"id":"16","method":"edit.getAvailableRefactorings","params":{"file":"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\lib\\providers\\space_provider.dart","length":0,"offset":0},"clientRequestTime":1615520491606}
+[10:41:31] [Analyzer] [Info] ==> {"id":"17","method":"analysis.setPriorityFiles","params":{"files":["C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\lib\\providers\\space_provider.dart"]},"clientRequestTime":1615520491609}
+[10:41:31] [Analyzer] [Info] ==> {"id":"18","method":"analysis.updateContent","params":{"files":{"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\lib\\providers\\space_provider.dart":{"edits":[{"offset":0,"length":0,"replacement":"","id":""}],"type":"change"}}},"clientRequestTime":1615520491615}
+[10:41:31] [Analyzer] [Info] ==> {"id":"19","method":"analysis.updateContent","params":{"files":{"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\lib\\providers\\space_provider.dart":{"edits":[{"offset":0,"length":0,"replacement":"","id":""}],"type":"change"}}},"clientRequestTime":1615520491615}
+[10:41:31] [Analyzer] [Info] ==> {"id":"20","method":"edit.getFixes","params":{"file":"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\lib\\providers\\space_provider.dart","offset":468},"clientRequestTime":1615520491623}
+[10:41:31] [Analyzer] [Info] ==> {"id":"21","method":"edit.getAssists","params":{"file":"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\lib\\providers\\space_provider.dart","length":0,"offset":468},"clientRequestTime":1615520491623}
+[10:41:31] [Analyzer] [Info] ==> {"id":"22","method":"edit.getAvailableRefactorings","params":{"file":"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\lib\\providers\\space_provider.dart","length":0,"offset":468},"clientRequestTime":1615520491623}
+[10:41:32] [Analyzer] [Info] <== {"event":"analysis.errors","params":{"file":"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\pubspec.yaml","errors":[]}}
+[10:41:32] [Analyzer] [Info] <== {"event":"analysis.errors","params":{"file":"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\android\\app\\src\\debug\\AndroidManifest.xml","errors":[]}}
+[10:41:32] [Analyzer] [Info] <== {"event":"analysis.errors","params":{"file":"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\android\\app\\src\\main\\AndroidManifest.xml","errors":[]}}
+[10:41:32] [Analyzer] [Info] <== {"event":"analysis.errors","params":{"file":"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\android\\app\\src\\profile\\AndroidManifest.xml","errors":[]}}
+[10:41:32] [Analyzer] [Info] <== {"event":"analysis.errors","params":{"file":"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\build\\app\\intermediates\\bundle_manifest\\debug\\processDebugManifest\\bundle-manifest\\AndroidManifest.xml","errors":[]}}
+[10:41:32] [Analyzer] [Info] <== {"event":"analysis.errors","params":{"file":"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\build\\app\\intermediates\\instant_app_manifest\\debug\\AndroidManifest.xml","errors":[]}}
+[10:41:32] [Analyzer] [Info] <== {"event":"analysis.errors","params":{"file":"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\build\\app\\intermediates\\merged_manifests\\debug\\AndroidManifest.xml","errors":[]}}
+[10:41:32] [Analyzer] [Info] <== {"event":"analysis.errors","params":{"file":"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\build\\path_provider\\intermediates\\aapt_friendly_merged_manifests\\debug\\aapt\\AndroidManifest.xml","errors":[]}}
+[10:41:32] [Analyzer] [Info] <== {"event":"analysis.errors","params":{"file":"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\build\\path_provider\\intermediates\\library_manifest\\debug\\AndroidManifest.xml","errors":[]}}
+[10:41:32] [Analyzer] [Info] <== {"event":"analysis.errors","params":{"file":"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\build\\url_launcher\\intermediates\\aapt_friendly_merged_manifests\\debug\\aapt\\AndroidManifest.xml","errors":[]}}
+[10:41:32] [Analyzer] [Info] <== {"event":"analysis.errors","params":{"file":"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\build\\url_launcher\\intermediates\\library_manifest\\debug\\AndroidManifest.xml","errors":[]}}
+[10:41:35] [Analyzer] [Info] <== {"id":"6"}
+[10:41:35] [Analyzer] [Info] <== {"id":"7","result":{}}
+[10:41:35] [Analyzer] [Info] <== {"event":"completion.availableSuggestions","params":{"changedLibraries":[],"removedLibraries":[]}}
+[10:41:35] [Analyzer] [Info] <== {"id":"8"}
+[10:41:35] [Analyzer] [Info] <== {"id":"9","result":{}}
+[10:41:36] [Analyzer] [Info] <== {"event":"completion.availableSuggestions","params":{"changedLibraries":[],"removedLibraries":[]}}
+[10:41:36] [Analyzer] [Info] <== {"event":"server.status","params":{"analysis":{"isAnalyzing":true}}}
+[10:41:36] [Analyzer] [Info] <== {"event":"completion.availableSuggestions","params":{"changedLibraries":[{"id":0,"uri":"package:flutter_test/flutter_test.dart","items":[{"label":"throwsAssertionError","declaringLibraryUri":"package:flutter_test/src/matchers.dart","element":{"kind":"TOP_LEVEL_VARIABLE","name":"throwsAssertionError","location":{"file":"C:\\flutter\\packages\\flutter_test\\lib\\src\\matchers.dart","offset":6811,"length":0,"startLine":190,"startColumn":15},"flags":4,"returnType":"Matcher"},"relevanceTags":["ElementKind.TOP_LEVEL_VARIABLE","throwsAssertionError"]},{"label":"isRangeError","declaringLibraryUri":"package:matcher/src/error_matchers.dart","element":{"kind":"TOP_LEVEL_VARIABLE","name":"isRangeError","location":{"file":"C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\matcher-0.12.10-nullsafety.1\\lib\\src\\error_matchers.dart","offset":1289,"length":0,"startLine":36,"startColumn":7},"flags":2,"returnType":""},"relevanceTags":["ElementKind.TOP_LEVEL_VARIABLE","ElementKind.TOP_LEVEL_VARIABLE+const","isRangeError"]},{"label":"coversSameAreaAs","declaringLibraryUri":"package:flutter_test/src/matchers.dart","element":{"kind":"FUNCTION","name":"coversSameAreaAs","location":{"file":"C:\\flutter\\packages\\flutter_test\\lib\\src\\matchers.dart","offset":11539,"length":0,"startLine":301,"startColumn":9},"flags":0,"parameters":"(Path expectedPath, {@required Rect areaToCompare, int sampleSize = 20})","returnType":"Matcher"},"defaultArgumentListString":"expectedPath, areaToCompare: null","defaultArgumentListTextRanges":[0,12,29,4],"parameterNames":["expectedPath","areaToCompare","sampleSize"],"parameterTypes":["Path","Rect","int"],"relevanceTags":["ElementKind.FUNCTION","coversSameAreaAs"],"requiredParameterCount":1},{"label":"equals","declaringLibraryUri":"package:matcher/src/equals_matcher.dart","element":{"kind":"FUNCTION","name":"equals","location":{"file":"C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\matcher-0.12.10-nullsafety.1\\lib\\src\\equals_matcher.dart","offset"…
+[10:41:36] [Analyzer] [Info] <== {"id":"10"}
+[10:41:36] [Analyzer] [Info] <== {"id":"11"}
+[10:41:36] [Analyzer] [Info] <== {"id":"12"}
+[10:41:36] [Analyzer] [Info] ==> {"id":"23","method":"flutter.setSubscriptions","params":{"subscriptions":{"OUTLINE":["C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\lib\\providers\\space_provider.dart","C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )\\pubspec.yaml"]}},"clientRequestTime":1615520496506}
+[10:41:36] [Analyzer] [Info] <== {"id":"13","result":{}}
+[10:41:36] [Analyzer] [Info] <== {"id":"17"}
+[10:41:36] [Analyzer] [Info] <== {"id":"18","result":{}}
+[10:41:36] [Analyzer] [Info] <== {"id":"19","result":{}}
+[10:41:36] [Analyzer] [Info] <== {"id":"23"}
+Fri Mar 12 2021 [10:41:38 GMT+0700 (Western Indonesia Time)] Log file ended

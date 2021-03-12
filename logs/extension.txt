@@ -1,0 +1,175 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.20.1
+Flutter extension: 3.20.0 (not activated)
+
+App: Visual Studio Code
+Version: 1.54.2
+Platform: win
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Logging Categories:
+    General
+
+Fri Mar 12 2021 [10:41:27 GMT+0700 (Western Indonesia Time)] Log file started
+[10:41:27] [General] [Info] Searching for SDKs...
+[10:41:27] [General] [Info] Environment PATH:
+[10:41:27] [General] [Info]     C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64
+[10:41:27] [General] [Info]     C:\Windows\system32
+[10:41:27] [General] [Info]     C:\Windows
+[10:41:27] [General] [Info]     C:\Windows\System32\Wbem
+[10:41:27] [General] [Info]     C:\Windows\System32\WindowsPowerShell\v1.0\
+[10:41:27] [General] [Info]     C:\Windows\System32\OpenSSH\
+[10:41:27] [General] [Info]     C:\Program Files\Dart\dart-sdk\bin
+[10:41:27] [General] [Info]     C:\Program Files\Git\cmd
+[10:41:27] [General] [Info]     C:\xampp\php
+[10:41:27] [General] [Info]     C:\ProgramData\ComposerSetup\bin
+[10:41:27] [General] [Info]     C:\Program Files (x86)\WeFi
+[10:41:27] [General] [Info]     C:\Users\AFIF\AppData\Local\Microsoft\WindowsApps
+[10:41:27] [General] [Info]     C:\Users\AFIF\AppData\Local\Programs\Microsoft VS Code\bin
+[10:41:27] [General] [Info]     C:\flutter\bin
+[10:41:27] [General] [Info]     C:\Users\AFIF\AppData\Roaming\Composer\vendor\bin
+[10:41:27] [General] [Info]     C:\Users\AFIF\AppData\Local\GitHubDesktop\bin
+[10:41:27] [General] [Info] Found Flutter project at C:\xampp\htdocs\KAMYUSI ( PROYEK 2 ):
+			Mobile? true
+			Web? false
+			Create Trigger? false
+			Flutter Repo? false
+[10:41:27] [General] [Info] Searching for flutter.bat
+[10:41:27] [General] [Info]     Looking for flutter.bat in:
+[10:41:27] [General] [Info]         C:\xampp\htdocs\KAMYUSI ( PROYEK 2 )
+[10:41:27] [General] [Info]         C:\xampp\htdocs\KAMYUSI ( PROYEK 2 )\bin
+[10:41:27] [General] [Info]         C:\flutter\bin\
+[10:41:27] [General] [Info]         C:\xampp\htdocs\KAMYUSI ( PROYEK 2 )\.flutter
+[10:41:27] [General] [Info]         C:\xampp\htdocs\KAMYUSI ( PROYEK 2 )\.flutter\bin
+[10:41:27] [General] [Info]         C:\xampp\htdocs\KAMYUSI ( PROYEK 2 )\vendor\flutter
+[10:41:27] [General] [Info]         C:\xampp\htdocs\KAMYUSI ( PROYEK 2 )\vendor\flutter\bin
+[10:41:27] [General] [Info]         C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64
+[10:41:27] [General] [Info]         C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64\bin
+[10:41:27] [General] [Info]         C:\Windows\system32
+[10:41:27] [General] [Info]         C:\Windows\system32\bin
+[10:41:27] [General] [Info]         C:\Windows
+[10:41:27] [General] [Info]         C:\Windows\bin
+[10:41:27] [General] [Info]         C:\Windows\System32\Wbem
+[10:41:27] [General] [Info]         C:\Windows\System32\Wbem\bin
+[10:41:27] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0\
+[10:41:27] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0\bin
+[10:41:27] [General] [Info]         C:\Windows\System32\OpenSSH\
+[10:41:27] [General] [Info]         C:\Windows\System32\OpenSSH\bin
+[10:41:27] [General] [Info]         C:\Program Files\Dart\dart-sdk\bin
+[10:41:27] [General] [Info]         C:\Program Files\Git\cmd
+[10:41:27] [General] [Info]         C:\Program Files\Git\cmd\bin
+[10:41:27] [General] [Info]         C:\xampp\php
+[10:41:27] [General] [Info]         C:\xampp\php\bin
+[10:41:27] [General] [Info]         C:\ProgramData\ComposerSetup\bin
+[10:41:27] [General] [Info]         C:\Program Files (x86)\WeFi
+[10:41:27] [General] [Info]         C:\Program Files (x86)\WeFi\bin
+[10:41:27] [General] [Info]         C:\Users\AFIF\AppData\Local\Microsoft\WindowsApps
+[10:41:27] [General] [Info]         C:\Users\AFIF\AppData\Local\Microsoft\WindowsApps\bin
+[10:41:27] [General] [Info]         C:\Users\AFIF\AppData\Local\Programs\Microsoft VS Code\bin
+[10:41:27] [General] [Info]         C:\flutter\bin
+[10:41:27] [General] [Info]         C:\Users\AFIF\AppData\Roaming\Composer\vendor\bin
+[10:41:27] [General] [Info]         C:\Users\AFIF\AppData\Local\GitHubDesktop\bin
+[10:41:27] [General] [Info]     Found at:
+[10:41:27] [General] [Info]         C:\flutter\bin\
+[10:41:27] [General] [Info]         C:\flutter\bin
+[10:41:27] [General] [Info]     Candidate paths to be post-filtered:
+[10:41:27] [General] [Info]         C:\flutter
+[10:41:27] [General] [Info]         C:\flutter
+[10:41:27] [General] [Info]     Found at C:\flutter
+[10:41:27] [General] [Info]     Returning SDK path C:\flutter for flutter.bat
+[10:41:27] [General] [Info] Searching for dart.exe
+[10:41:27] [General] [Info]     Looking for dart.exe in:
+[10:41:27] [General] [Info]         C:\flutter\bin\cache\dart-sdk
+[10:41:27] [General] [Info]         C:\flutter\bin\cache\dart-sdk\bin
+[10:41:27] [General] [Info]         C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64
+[10:41:27] [General] [Info]         C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64\bin
+[10:41:27] [General] [Info]         C:\Windows\system32
+[10:41:27] [General] [Info]         C:\Windows\system32\bin
+[10:41:27] [General] [Info]         C:\Windows
+[10:41:27] [General] [Info]         C:\Windows\bin
+[10:41:27] [General] [Info]         C:\Windows\System32\Wbem
+[10:41:27] [General] [Info]         C:\Windows\System32\Wbem\bin
+[10:41:27] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0\
+[10:41:27] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0\bin
+[10:41:27] [General] [Info]         C:\Windows\System32\OpenSSH\
+[10:41:27] [General] [Info]         C:\Windows\System32\OpenSSH\bin
+[10:41:27] [General] [Info]         C:\Program Files\Dart\dart-sdk\bin
+[10:41:27] [General] [Info]         C:\Program Files\Git\cmd
+[10:41:27] [General] [Info]         C:\Program Files\Git\cmd\bin
+[10:41:27] [General] [Info]         C:\xampp\php
+[10:41:27] [General] [Info]         C:\xampp\php\bin
+[10:41:27] [General] [Info]         C:\ProgramData\ComposerSetup\bin
+[10:41:27] [General] [Info]         C:\Program Files (x86)\WeFi
+[10:41:27] [General] [Info]         C:\Program Files (x86)\WeFi\bin
+[10:41:27] [General] [Info]         C:\Users\AFIF\AppData\Local\Microsoft\WindowsApps
+[10:41:27] [General] [Info]         C:\Users\AFIF\AppData\Local\Microsoft\WindowsApps\bin
+[10:41:27] [General] [Info]         C:\Users\AFIF\AppData\Local\Programs\Microsoft VS Code\bin
+[10:41:27] [General] [Info]         C:\flutter\bin
+[10:41:27] [General] [Info]         C:\Users\AFIF\AppData\Roaming\Composer\vendor\bin
+[10:41:27] [General] [Info]         C:\Users\AFIF\AppData\Local\GitHubDesktop\bin
+[10:41:27] [General] [Info]         C:\flutter\bin\cache\dart-sdk
+[10:41:27] [General] [Info]         C:\flutter\bin\cache\dart-sdk\bin
+[10:41:27] [General] [Info]     Found at:
+[10:41:27] [General] [Info]         C:\flutter\bin\cache\dart-sdk\bin
+[10:41:27] [General] [Info]         C:\Program Files\Dart\dart-sdk\bin
+[10:41:27] [General] [Info]         C:\flutter\bin\cache\dart-sdk\bin
+[10:41:27] [General] [Info]     Candidate paths to be post-filtered:
+[10:41:27] [General] [Info]         C:\flutter\bin\cache\dart-sdk
+[10:41:27] [General] [Info]         C:\Program Files\Dart\dart-sdk
+[10:41:27] [General] [Info]         C:\flutter\bin\cache\dart-sdk
+[10:41:27] [General] [Info]     Found at C:\flutter\bin\cache\dart-sdk
+[10:41:27] [General] [Info]     Returning SDK path C:\flutter\bin\cache\dart-sdk for dart.exe
+[10:41:27] [General] [Info] Experiment random number is 2 for experiement 'lsp-default'. Experiment is enabled for <= 10
+[10:41:27] [General] [Info] Experiment 'lsp-default' is activating (not first time)
+[10:41:27] [General] [Info] !! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.20.1
+Flutter extension: 3.20.0 (not activated)
+
+App: Visual Studio Code
+Version: 1.54.2
+Platform: win
+
+Workspace type: Flutter
+Analyzer type: DAS
+Multi-root?: false
+
+Dart SDK:
+    Loc: C:\flutter\bin\cache\dart-sdk
+    Ver: 2.10.2
+Flutter SDK:
+    Loc: C:\flutter
+    Ver: 1.22.2
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+[10:41:27] [General] [Info] Activating Flutter extension for Flutter project...
+[10:41:27] [General] [Info] Extension:Startup timing: 180ms
+[10:41:27] [General] [Info] Found 0 folders requiring "pub get":
+[10:41:28] [General] [Info] !! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.20.1
+Flutter extension: 3.20.0 (activated)
+
+App: Visual Studio Code
+Version: 1.54.2
+Platform: win
+
+Workspace type: Flutter
+Analyzer type: DAS
+Multi-root?: false
+
+Dart SDK:
+    Loc: C:\flutter\bin\cache\dart-sdk
+    Ver: 2.10.2
+Flutter SDK:
+    Loc: C:\flutter
+    Ver: 1.22.2
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+[10:41:29] [General] [Info] Analyzer:Startup timing: 1706ms
+Fri Mar 12 2021 [10:41:38 GMT+0700 (Western Indonesia Time)] Log file ended

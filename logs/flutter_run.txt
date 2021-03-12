@@ -1,0 +1,36 @@
+[11:07:56]: Spawning C:\flutter\bin\flutter.bat with args ["run","--machine","--target","lib\\main.dart","-d","localhost:5555","--dart-define=flutter.inspector.structuredErrors=true","--start-paused","--web-server-debug-protocol","ws","--web-server-debug-backend-protocol","ws","--web-allow-expose-url"]
+[11:07:56]: ..  in C:\xampp\htdocs\KAMYUSI ( PROYEK 2 )
+[11:07:56]: ..  with {"toolEnv":{"FLUTTER_HOST":"VSCode","PUB_ENVIRONMENT":"vscode.dart-code"}}
+[11:07:56]: PID: 9724
+[11:07:59]: <== Waiting for another flutter command to release the startup lock...
+[11:08:01]: <== event sent after app closed: {id: 0, progressId: null, message: Running "flutter pub get" in KAMYUSI ( PROYEK 2 )...}
+[11:08:03]: <== event sent after app closed: {id: 0, progressId: null, finished: true}
+[11:08:04]: <== [{"event":"daemon.connected","params":{"version":"0.6.0","pid":3440}}]
+[11:08:04]: <== [{"event":"app.start","params":{"appId":"03c42b22-c39d-4bf6-9a07-1a55bbd5fcf5","deviceId":"localhost:5555","directory":"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )","supportsRestart":true,"launchMode":"run"}}]
+[11:08:04]: <== Launching lib\main.dart on PIXEL 2 XL in debug mode...
+[11:08:04]: <== [{"event":"app.progress","params":{"appId":"03c42b22-c39d-4bf6-9a07-1a55bbd5fcf5","id":"1","progressId":null,"message":"Running Gradle task 'assembleDebug'..."}}]
+[11:08:51]: <== Parameter format not correct -
+[11:08:57]: <== [{"event":"app.progress","params":{"appId":"03c42b22-c39d-4bf6-9a07-1a55bbd5fcf5","id":"1","progressId":null,"finished":true}}]
+[11:08:58]: <== √ Built build\app\outputs\flutter-apk\app-debug.apk.
+[11:09:02]: <== [{"event":"app.progress","params":{"appId":"03c42b22-c39d-4bf6-9a07-1a55bbd5fcf5","id":"2","progressId":null,"message":"Installing build\\app\\outputs\\flutter-apk\\app.apk..."}}]
+[11:09:12]: <== [{"event":"app.progress","params":{"appId":"03c42b22-c39d-4bf6-9a07-1a55bbd5fcf5","id":"2","progressId":null,"finished":true}}]
+[11:09:21]: <== [{"event":"app.progress","params":{"appId":"03c42b22-c39d-4bf6-9a07-1a55bbd5fcf5","id":"3","progressId":null,"message":"Waiting for PIXEL 2 XL to report its views..."}}]
+[11:09:21]: <== [{"event":"app.progress","params":{"appId":"03c42b22-c39d-4bf6-9a07-1a55bbd5fcf5","id":"3","progressId":null,"finished":true}}]
+[11:09:21]: <== [{"event":"app.debugPort","params":{"appId":"03c42b22-c39d-4bf6-9a07-1a55bbd5fcf5","port":49600,"wsUri":"ws://127.0.0.1:49600/jcoT9bS64Ss=/ws","baseUri":"file:///data/user/0/com.rifqieh.bwacozy/code_cache/KAMYUSI%20(%20PROYEK%202%20)IDNJON/KAMYUSI%20(%20PROYEK%202%20)/"}}]
+[11:09:22]: <== [{"event":"app.progress","params":{"appId":"03c42b22-c39d-4bf6-9a07-1a55bbd5fcf5","id":"4","progressId":null,"message":"Syncing files to device PIXEL 2 XL..."}}]
+[11:09:25]: <== [{"event":"app.progress","params":{"appId":"03c42b22-c39d-4bf6-9a07-1a55bbd5fcf5","id":"4","progressId":null,"finished":true}}]
+[11:09:25]: <== [{"event":"app.started","params":{"appId":"03c42b22-c39d-4bf6-9a07-1a55bbd5fcf5"}}]
+[11:09:28]: ==> [{"id":"1","method":"app.callServiceExtension","params":{"appId":"03c42b22-c39d-4bf6-9a07-1a55bbd5fcf5","methodName":"ext.flutter.platformOverride"}}]
+[11:09:28]: ==> [{"id":"2","method":"app.callServiceExtension","params":{"appId":"03c42b22-c39d-4bf6-9a07-1a55bbd5fcf5","methodName":"ext.flutter.brightnessOverride"}}]
+[11:09:28]: ==> [{"id":"3","method":"app.callServiceExtension","params":{"appId":"03c42b22-c39d-4bf6-9a07-1a55bbd5fcf5","methodName":"ext.flutter.inspector.structuredErrors","params":{"enabled":true}}}]
+[11:09:28]: ==> [{"id":"4","method":"app.callServiceExtension","params":{"appId":"03c42b22-c39d-4bf6-9a07-1a55bbd5fcf5","methodName":"ext.flutter.inspector.setPubRootDirectories","params":{"arg0":"file:///C:/xampp/htdocs/KAMYUSI ( PROYEK 2 )","arg1":"C:\\xampp\\htdocs\\KAMYUSI ( PROYEK 2 )","isolateId":"isolates/2892369696039027"}}}]
+[11:09:28]: ==> [{"id":"5","method":"app.callServiceExtension","params":{"appId":"03c42b22-c39d-4bf6-9a07-1a55bbd5fcf5","methodName":"ext.flutter.inspector.isWidgetCreationTracked"}}]
+[11:09:34]: <== [{"id":"1","result":{"value":"android","type":"_extensionType","method":"ext.flutter.platformOverride"}}]
+[11:09:34]: <== [{"id":"2","result":{"value":"Brightness.light","type":"_extensionType","method":"ext.flutter.brightnessOverride"}}]
+[11:09:34]: <== [{"id":"3","result":{"enabled":"true","type":"_extensionType","method":"ext.flutter.inspector.structuredErrors"}}]
+[11:09:34]: <== [{"id":"4","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.setPubRootDirectories"}}]
+[11:09:34]: <== [{"id":"5","result":{"result":true,"type":"_extensionType","method":"ext.flutter.inspector.isWidgetCreationTracked"}}]
+[11:53:07]: ==> [{"id":"6","method":"app.stop","params":{"appId":"03c42b22-c39d-4bf6-9a07-1a55bbd5fcf5"}}]
+[11:53:07]: <== Application finished.
+[11:53:08]: <== [{"id":"6","result":true}]
+[11:53:08]: <== [{"event":"app.stop","params":{"appId":"03c42b22-c39d-4bf6-9a07-1a55bbd5fcf5"}}]
